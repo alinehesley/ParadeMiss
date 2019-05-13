@@ -1,0 +1,30 @@
+.title{
+    font-family: 'Gochi Hand', cursive;
+    font-weight: bold;
+}
+.font{
+    font-size: 4em;
+    font-family: 'Gochi Hand', cursive;
+    letter-spacing: 4px;
+}
+.left{
+    float:left;
+}
+.capa{
+    background-image: url(dress_03.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+}
+.capa-howtomake{
+    background-image: url(howtomake.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+}
+.menu-nav-color{
+    color: #E0FFFF;
+}
+.centralizado {
+    margin: 0 auto;
+}
